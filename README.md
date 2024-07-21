@@ -1,5 +1,5 @@
-## Siraj-ecommece-powerBI-dashboard!
-[2024-07-21](https://github.com/user-attachments/assets/eb2ca834-117d-4c09-b3ba-5e49d3916ac4)
+## Siraj-ecommece-powerBI-dashboard
+![2024-07-21](https://github.com/user-attachments/assets/eb2ca834-117d-4c09-b3ba-5e49d3916ac4)
 
 #Quarter based State wise Dashboard
 ![2024-07-21 (3)](https://github.com/user-attachments/assets/00720850-81be-4c8e-a013-a6664a5f97fe)
